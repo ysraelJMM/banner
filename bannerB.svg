@@ -187,8 +187,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1">
     <rect
        y="0"
        x="0"
@@ -295,5 +293,27 @@
          d="M 117.85715,193.06371 135,210.20657 h 143.57143 l 18.57143,19.07913 H 2.1428585 L -41.607141,193.06371 Z"
          id="path13581" />
     </g>
+    <path id="boton_2"
+      d="M 67.198533,676.54254 H 264.05535 l 9.76646,12.728 -4.43297,16.5441 -16.58736,12.7279 H 55.944663 l -9.76647,-12.7279 4.43297,-16.5441 z"
+      fill="#d3d4db"
+    />
+    <g id="texto2" transform="translate(-184 470)">
+    <text x="346" y="109" class="textoSVGSelect" font-family="Verdana" font-size="20" text-anchor="middle" fill="#deebf7" font-weight="normal" font-style="normal">OPERATØRKONFERANSEN</text>
+    <text x="346" y="139" class="textoSVGSelect" font-family="Verdana" font-size="20" text-anchor="middle" fill="#deebf7" font-weight="normal" font-style="normal">2018</text>
+    <text x="342" y="165" class="textoSVG" font-family="Verdana" font-size="16" text-anchor="middle" fill="#deebf7" font-style="normal">Clarion Hotell Energy</text>
+    <text x="342" y="185" class="textoSVG" font-family="Verdana" font-size="16" text-anchor="middle" fill="#deebf7" font-style="normal">14 - 15. november 2018</text>
+    <a id="lin_3" xlink:href="https://www.operatorkonferansen.no/delegatliste/" target="_blank">
+      <text x="342" y="234" class="linck_SVG" font-family="Verdana" font-size="16" text-anchor="middle" fill="#4d4d4d" font-weight="bold" font-style="italic">    <animate
+      attributeName="fill"
+      attributeType="XML"
+      begin="lin_3.mouseover"
+      values="#737373; #0b1222; #737373"
+      dur="0.5s"
+      repeatCount="indefinite"
+      repeatDur="indefinite"
+      end="lin_3.mouseout"
+      calcMode="linear"
+      restart="whenNotActive"/>SE DELEGATLISTE</text>
+    </a>
   </g>
 </svg>
