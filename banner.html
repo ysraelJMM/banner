@@ -5,129 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
-  <style media="screen">
-       div.slides-frame {
-      width: 980px;
-      height: 300px;
-      overflow: hidden;
-      position: relative;
-      margin: 0 auto;
-    }
-    div.slides {
-      -webkit-animation: slideUp 30s  infinite;
-      -moz-animation: slideUp 30s  infinite;
-      -o-animation: slideUp 30s  infinite;
-      animation: slideUp 30s  infinite;
-      position: relative;
-    }
- div.slide {
-   width: 980px;
-   height: 1200px;
-   font-size: 0;
- }
-dib.slider-1 {
-  background-color:#0c1c42;
+  <style>
+  body{
+  padding:0;
+  margin:0;
+  background-color:#000;
+  display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	height: 100vh;
+  width: 100vw;
+  overflow: hidden;
 }
-div.slide-2 {
-  height: 300px;
-  background: url(bannerA.svg);
+object{
+  padding:0;
+  margin:0;
+  width:100%;
+  max-width: 900px;
 }
-div.slides-frame:hover div.slides
-{
-    -webkit-animation-play-state: paused;
-    -moz-animation-play-state: paused;
-    -o-animation-play-state: paused;
-    animation-play-state: paused;
+@media screen and (max-width: 480px){
+  object{
+    width:auto;
+  }
 }
-    lesshat-selector {
-      -lh-property: 0; }
- @-o-keyframes slideUp {
-   0% {
-     bottom: 0;
-   }
-
-   18% {
-     bottom: 0;
-   }
-
-   25% {
-     bottom: 300px;
-   }
-
-   43% {
-     bottom: 300px;
-   }
-
-   50% {
-     bottom: 600px;
-   }
-
-   68% {
-     bottom: 600px;
-   }
-
-   75% {
-     bottom: 900px;
-   }
-
-   93% {
-     bottom: 900px;
-   }
-      100% {
-     bottom: 1200px;
-   }
- }
-
- @keyframes slideUp {
-   0% {
-     bottom: 0;
-   }
-
-   18% {
-     bottom: 0;
-   }
-
-   25% {
-     bottom: 300px;
-   }
-
-   43% {
-     bottom: 300px;
-   }
-
-   50% {
-     bottom: 600px;
-   }
-
-   68% {
-     bottom: 600px;
-   }
-
-   75% {
-     bottom: 900px;
-   }
-
-   93% {
-     bottom: 900px;
-   }
-      100% {
-     bottom: 1200px;
-   }
- }
-
- [not-existing] {
-   zoom: 1;
- }
   </style>
 </head>
 <body>
-  <div class="slides-frame">
-    <div class="slides">
-      <div class="slide-1 slide">
-        <object data="bannerA.svg" type="image/svg+xml"></object> 
-      </div>
-      <div class="slide-2 slide">
-    </div>
-  </div>
+<object data="https://ysraeljmm.github.io/banner/bannerYJMM.svg" type="image/svg+xml"></object> 
 </body>
 </html>
