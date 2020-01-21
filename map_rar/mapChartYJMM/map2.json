@@ -1,0 +1,72 @@
+[
+  {
+    "animal_type": "dog",
+    "color": "#ff3300",
+    "total": "120",
+    "y": 500,
+    "h": 100
+  },
+  {
+    "animal_type": "cat",
+    "color": "#C28348",
+    "total": "113",
+    "y": 540,
+    "h": 94.166666666667
+  },
+  {
+    "animal_type": "fish",
+    "color": "#3399ff",
+    "total": "101",
+    "y": 580,
+    "h": 84.166666666667
+  },
+  {
+    "animal_type": "goat",
+    "color": "#944ddb",
+    "total": "101",
+    "y": 620,
+    "h": 84.166666666667
+  },
+  {
+    "animal_type": "sheep",
+    "color": "#7c98a1",
+    "total": "99",
+    "y": 660,
+    "h": 82.5
+  },
+  {
+    "animal_type": "cow",
+    "color": "#513f3f",
+    "total": "97",
+    "y": 700,
+    "h": 80.833333333333
+  },
+  {
+    "animal_type": "parrot",
+    "color": "#99cc00",
+    "total": "97",
+    "y": 740,
+    "h": 80.833333333333
+  },
+  {
+    "animal_type": "buffalo",
+    "color": "#112448",
+    "total": "93",
+    "y": 780,
+    "h": 77.5
+  },
+  {
+    "animal_type": "pig",
+    "color": "#d46ac7",
+    "total": "91",
+    "y": 820,
+    "h": 75.833333333333
+  },
+  {
+    "animal_type": "rabbit",
+    "color": "#ffb83b",
+    "total": "90",
+    "y": 860,
+    "h": 75
+  }
+]

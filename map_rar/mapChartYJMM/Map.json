@@ -1,0 +1,446 @@
+{
+  "Harinakundu": {
+    "0": {
+      "animal_type": "cow",
+      "male": "20",
+      "female": "10",
+      "total": "30",
+      "r": 5.4772255750517
+    },
+    "1": {
+      "animal_type": "sheep",
+      "male": "13",
+      "female": "9",
+      "total": "22",
+      "r": 4.6904157598234
+    },
+    "2": {
+      "animal_type": "cat",
+      "male": "9",
+      "female": "11",
+      "total": "20",
+      "r": 4.4721359549996
+    },
+    "3": {
+      "animal_type": "goat",
+      "male": "7",
+      "female": "11",
+      "total": "18",
+      "r": 4.2426406871193
+    },
+    "4": {
+      "animal_type": "buffalo",
+      "male": "10",
+      "female": "7",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "5": {
+      "animal_type": "dog",
+      "male": "10",
+      "female": "7",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "6": {
+      "animal_type": "parrot",
+      "male": "10",
+      "female": "5",
+      "total": "15",
+      "r": 3.8729833462074
+    },
+    "7": {
+      "animal_type": "fish",
+      "male": "7",
+      "female": "7",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "8": {
+      "animal_type": "rabbit",
+      "male": "4",
+      "female": "9",
+      "total": "13",
+      "r": 3.605551275464
+    },
+    "9": {
+      "animal_type": "pig",
+      "male": "6",
+      "female": "2",
+      "total": "8",
+      "r": 2.8284271247462
+    },
+    "total": 174,
+    "resto": 67
+  },
+  "Jhenaidah_Sadar": {
+    "0": {
+      "animal_type": "pig",
+      "male": "11",
+      "female": "8",
+      "total": "19",
+      "r": 4.3588989435407
+    },
+    "1": {
+      "animal_type": "dog",
+      "male": "5",
+      "female": "14",
+      "total": "19",
+      "r": 4.3588989435407
+    },
+    "2": {
+      "animal_type": "buffalo",
+      "male": "8",
+      "female": "9",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "3": {
+      "animal_type": "cat",
+      "male": "8",
+      "female": "8",
+      "total": "16",
+      "r": 4
+    },
+    "4": {
+      "animal_type": "sheep",
+      "male": "5",
+      "female": "9",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "5": {
+      "animal_type": "cow",
+      "male": "4",
+      "female": "10",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "6": {
+      "animal_type": "goat",
+      "male": "9",
+      "female": "5",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "7": {
+      "animal_type": "fish",
+      "male": "9",
+      "female": "4",
+      "total": "13",
+      "r": 3.605551275464
+    },
+    "8": {
+      "animal_type": "rabbit",
+      "male": "9",
+      "female": "4",
+      "total": "13",
+      "r": 3.605551275464
+    },
+    "9": {
+      "animal_type": "parrot",
+      "male": "6",
+      "female": "6",
+      "total": "12",
+      "r": 3.4641016151378
+    },
+    "total": 151,
+    "resto": 66
+  },
+  "Kaliganj": {
+    "0": {
+      "animal_type": "cat",
+      "male": "13",
+      "female": "13",
+      "total": "26",
+      "r": 5.0990195135928
+    },
+    "1": {
+      "animal_type": "fish",
+      "male": "14",
+      "female": "11",
+      "total": "25",
+      "r": 5
+    },
+    "2": {
+      "animal_type": "dog",
+      "male": "9",
+      "female": "15",
+      "total": "24",
+      "r": 4.8989794855664
+    },
+    "3": {
+      "animal_type": "cow",
+      "male": "9",
+      "female": "8",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "4": {
+      "animal_type": "buffalo",
+      "male": "7",
+      "female": "10",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "5": {
+      "animal_type": "goat",
+      "male": "4",
+      "female": "12",
+      "total": "16",
+      "r": 4
+    },
+    "6": {
+      "animal_type": "rabbit",
+      "male": "6",
+      "female": "10",
+      "total": "16",
+      "r": 4
+    },
+    "7": {
+      "animal_type": "pig",
+      "male": "9",
+      "female": "6",
+      "total": "15",
+      "r": 3.8729833462074
+    },
+    "8": {
+      "animal_type": "parrot",
+      "male": "10",
+      "female": "4",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "9": {
+      "animal_type": "sheep",
+      "male": "6",
+      "female": "5",
+      "total": "11",
+      "r": 3.3166247903554
+    },
+    "total": 181,
+    "resto": 72
+  },
+  "Kotchandpur": {
+    "0": {
+      "animal_type": "fish",
+      "male": "8",
+      "female": "12",
+      "total": "20",
+      "r": 4.4721359549996
+    },
+    "1": {
+      "animal_type": "dog",
+      "male": "10",
+      "female": "10",
+      "total": "20",
+      "r": 4.4721359549996
+    },
+    "2": {
+      "animal_type": "goat",
+      "male": "9",
+      "female": "10",
+      "total": "19",
+      "r": 4.3588989435407
+    },
+    "3": {
+      "animal_type": "pig",
+      "male": "8",
+      "female": "9",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "4": {
+      "animal_type": "cat",
+      "male": "9",
+      "female": "7",
+      "total": "16",
+      "r": 4
+    },
+    "5": {
+      "animal_type": "parrot",
+      "male": "9",
+      "female": "7",
+      "total": "16",
+      "r": 4
+    },
+    "6": {
+      "animal_type": "rabbit",
+      "male": "11",
+      "female": "4",
+      "total": "15",
+      "r": 3.8729833462074
+    },
+    "7": {
+      "animal_type": "buffalo",
+      "male": "6",
+      "female": "8",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "8": {
+      "animal_type": "sheep",
+      "male": "4",
+      "female": "10",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "9": {
+      "animal_type": "cow",
+      "male": "6",
+      "female": "4",
+      "total": "10",
+      "r": 3.1622776601684
+    },
+    "total": 161,
+    "resto": 69
+  },
+  "Maheshpur": {
+    "0": {
+      "animal_type": "rabbit",
+      "male": "14",
+      "female": "7",
+      "total": "21",
+      "r": 4.5825756949558
+    },
+    "1": {
+      "animal_type": "goat",
+      "male": "9",
+      "female": "10",
+      "total": "19",
+      "r": 4.3588989435407
+    },
+    "2": {
+      "animal_type": "parrot",
+      "male": "7",
+      "female": "12",
+      "total": "19",
+      "r": 4.3588989435407
+    },
+    "3": {
+      "animal_type": "fish",
+      "male": "8",
+      "female": "11",
+      "total": "19",
+      "r": 4.3588989435407
+    },
+    "4": {
+      "animal_type": "cat",
+      "male": "12",
+      "female": "5",
+      "total": "17",
+      "r": 4.1231056256177
+    },
+    "5": {
+      "animal_type": "sheep",
+      "male": "8",
+      "female": "8",
+      "total": "16",
+      "r": 4
+    },
+    "6": {
+      "animal_type": "dog",
+      "male": "5",
+      "female": "11",
+      "total": "16",
+      "r": 4
+    },
+    "7": {
+      "animal_type": "buffalo",
+      "male": "7",
+      "female": "8",
+      "total": "15",
+      "r": 3.8729833462074
+    },
+    "8": {
+      "animal_type": "pig",
+      "male": "7",
+      "female": "5",
+      "total": "12",
+      "r": 3.4641016151378
+    },
+    "9": {
+      "animal_type": "cow",
+      "male": "7",
+      "female": "5",
+      "total": "12",
+      "r": 3.4641016151378
+    },
+    "total": 166,
+    "resto": 71
+  },
+  "Shailkupa": {
+    "0": {
+      "animal_type": "dog",
+      "male": "13",
+      "female": "11",
+      "total": "24",
+      "r": 4.8989794855664
+    },
+    "1": {
+      "animal_type": "sheep",
+      "male": "7",
+      "female": "15",
+      "total": "22",
+      "r": 4.6904157598234
+    },
+    "2": {
+      "animal_type": "parrot",
+      "male": "11",
+      "female": "10",
+      "total": "21",
+      "r": 4.5825756949558
+    },
+    "3": {
+      "animal_type": "pig",
+      "male": "13",
+      "female": "7",
+      "total": "20",
+      "r": 4.4721359549996
+    },
+    "4": {
+      "animal_type": "cat",
+      "male": "11",
+      "female": "7",
+      "total": "18",
+      "r": 4.2426406871193
+    },
+    "5": {
+      "animal_type": "goat",
+      "male": "8",
+      "female": "7",
+      "total": "15",
+      "r": 3.8729833462074
+    },
+    "6": {
+      "animal_type": "cow",
+      "male": "5",
+      "female": "9",
+      "total": "14",
+      "r": 3.7416573867739
+    },
+    "7": {
+      "animal_type": "buffalo",
+      "male": "5",
+      "female": "8",
+      "total": "13",
+      "r": 3.605551275464
+    },
+    "8": {
+      "animal_type": "rabbit",
+      "male": "7",
+      "female": "5",
+      "total": "12",
+      "r": 3.4641016151378
+    },
+    "9": {
+      "animal_type": "fish",
+      "male": "6",
+      "female": "4",
+      "total": "10",
+      "r": 3.1622776601684
+    },
+    "total": 169,
+    "resto": 64
+  }
+}
